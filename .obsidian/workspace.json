@@ -1,96 +1,41 @@
 {
   "main": {
-    "id": "c9f9ee027468f034",
+    "id": "3bbafcddc5676ca8",
     "type": "split",
     "children": [
       {
-        "id": "884a912baa4f2e20",
+        "id": "acc7453ae69a522d",
         "type": "tabs",
         "children": [
           {
-            "id": "f9bbedbc7b63b287",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/0-Work/ack集群引入istio服务网格操作日志.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b0bda005bb73c4ba",
+            "id": "77cf02e36e370bd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/0-Work/自建k8s与使用阿里云ack优缺点分析.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d516f152dfc452a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/0-Work/ack集群引入istio服务网格操作日志.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3b26d0e05bafddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/0-Work/gitops.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edae943cd3592658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/永久笔记/gitignore 语法.md",
+                "file": "MySQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "49d8dfbba8804bf3",
+    "id": "e3dd4e8fbf886eda",
     "type": "split",
     "children": [
       {
-        "id": "98bf65567db24074",
+        "id": "987dbc5670d8f4fa",
         "type": "tabs",
-        "dimension": 51.40425531914893,
+        "dimension": 63.92785571142284,
         "children": [
           {
-            "id": "aa5b6eac40ab5517",
+            "id": "a4d1994dfc9f1870",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -100,22 +45,22 @@
             }
           },
           {
-            "id": "2d99e2950dbcef4c",
+            "id": "ce044dedd57e8849",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "v5/detail",
+                "query": "35.77.211.36",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
             }
           },
           {
-            "id": "664be766476e3a4c",
+            "id": "8857362beab68c4a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -123,7 +68,7 @@
             }
           },
           {
-            "id": "0fe66c35260def5e",
+            "id": "4ea8d6f6779182a1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,34 +81,39 @@
         ]
       },
       {
-        "id": "48e5c6c0b999baf4",
+        "id": "92910ae8836a7b22",
         "type": "tabs",
-        "dimension": 48.59574468085107,
+        "dimension": 36.07214428857716,
         "children": [
           {
-            "id": "6ceecea4c8d42745",
+            "id": "46ac18e336e17ae3",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/gitignore 语法.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "MySQL.md"
               }
             }
           },
           {
-            "id": "ec24bc1f90b5ec69",
+            "id": "853ef9e400d6f719",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MySQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "401ecf6c95e31916",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/永久笔记/gitignore 语法.md",
+                "file": "MySQL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,70 +136,45 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8974052540515883,
+                  "scale": 1,
                   "close": true
                 }
               }
             }
           },
           {
-            "id": "255e47e4612a9918",
+            "id": "687dfb8cd0c53082",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/gitignore 语法.md",
-                "linksCollapsed": false,
+                "file": "MySQL.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "c7e30a4edfb2b609",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Cards/永久笔记/gitignore 语法.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 336.5
   },
   "right": {
-    "id": "b04bae835715e106",
+    "id": "c718ea3b78af998f",
     "type": "split",
     "children": [
       {
-        "id": "bf92a8744d8764e6",
+        "id": "ac5865f1b9a84921",
         "type": "tabs",
         "children": [
           {
-            "id": "8e00d8d7eab509c8",
-            "type": "leaf",
-            "state": {
-              "type": "chronology-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "71abb33cf87cd2d8",
-            "type": "leaf",
-            "state": {
-              "type": "daily-note-outline",
-              "state": {
-                "activeSet": 0,
-                "activeGranularity": 1
-              }
-            }
-          },
-          {
-            "id": "c45f983fe3ed8e1a",
+            "id": "b2593231eedcbd9d",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -257,7 +182,7 @@
             }
           },
           {
-            "id": "d77a1adeb31c077e",
+            "id": "4de411a2f9535073",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -265,65 +190,73 @@
             }
           },
           {
-            "id": "79c8c7732340cf8d",
+            "id": "d5db3c8fe8892d56",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {}
             }
-          },
-          {
-            "id": "c3a20b61b8cca4fb",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "21de49bada52aecc",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 386.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "dbfolder:创建一个新数据库表": false,
-      "janitor:Janitor: scan vault": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:复习卡片": false,
       "publish:发布更改": false,
-      "obsidian-projects:Open projects": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "cmdr:聚焦上方标签页组": false,
       "cmdr:聚焦左侧标签页组": false,
-      "copilot:Copilot Chat": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "notion-like-tables:Create new loom": false,
-      "periodic-notes:Open today": false,
+      "janitor:Janitor: scan vault": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-weread-plugin:Weread": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create new loom": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-importer:Open Importer": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "periodic-notes:Open today": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "obsidian-projects:Open projects": false,
+      "dbfolder:创建一个新数据库表": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "edae943cd3592658",
+  "active": "77cf02e36e370bd9",
   "lastOpenFiles": [
+    "README.md",
+    "Atlas/Dashborads/Untitled 2.loom",
+    "Atlas/Canvas/🧩 2022年，我用3个app达成的3个小成就.canvas",
+    "交换机.md",
+    "未命名.md",
+    "未命名.canvas",
+    "AboutTheGarden.md",
+    "🍀 花园导览/未命名",
+    "rocketMQ.md",
+    "🧰 本库指南/🧰 本库使用指南.md",
+    "Cards/永久笔记/数字花园.md",
+    "🍀 花园导览/🍀 花园导览.md",
+    "Spaces/3-Resource/效率工具与服务专题/Obsidian插件使用/Advanced Slides.md",
+    "Cards/永久笔记/frontmatter.md",
+    "Calendar/Daily notes/Daily notes归档/2023/2023-02-12.md",
+    "Calendar/已发布帖子/自荐obsidian开源库和发布站.md",
+    "🍀 花园导览/🏋 如何保持健康.md",
+    "🍀 花园导览/👓 如何高效学习.md",
+    "🍀 花园导览/🗜 效率工具使用.md",
+    "🍀 花园导览/🤖 如何用好AIGC工具.md",
+    "Cards/永久笔记/gitignore 语法.md",
     "Sources/Articles/常青笔记阅读笔记/创建超链接到我的参考档案.md",
     "Spaces/0-Work/Daily notes/2023-08-23.md",
     "Extras/Media/Pasted image 20230823192405.png",
@@ -335,32 +268,13 @@
     "Spaces/0-Work/自建k8s与使用阿里云ack优缺点分析.md",
     "Cards/永久笔记/本机启用ssh免密自动登陆.md",
     "Spaces/0-Work/映兔现有集群集成istio服务治理能力的调研.md",
-    "Spaces/0-Work/测试环境迁移过程操作日志.md",
-    "Sources/Books/微信读书同步/未分类/Building a Second Brain-Tiago Forte.md",
-    "Extras/Templates/textgenerator模板/prompts/awesomechatgpt/smartdomainnamegeneratorAwesome.md",
-    "Spaces/3-Resource/效率工具与服务专题/MacOS 软件使用/Warp.md",
-    "Spaces/0-Work/Daily notes/2023-08-03.md",
-    "Sources/Articles/常青笔记阅读笔记/常青笔记实现顺畅而渐进的写作（「渐进写作」）.md",
-    "Cards/永久笔记/git submodule.md",
-    "Spaces/0-Work/大语言模型 - LLM.md",
-    "Spaces/0-Work/Daily notes/2023-08-22.md",
-    "rocketMQ.md",
-    "Spaces/0-Work/azure openai from 秦旭.md",
-    "Spaces/0-Work/99-映兔知识库/映兔术语整理.md",
-    "Spaces/0-Work/现有自建k8s集群迁移到阿里云ack技术方案.md",
-    "Spaces/0-Work/后端应用安装指导书.md",
     "Atlas/Dashborads/Untitled 1.loom",
-    "MySQL.md",
     "Spaces/0-Work/ack集群引入istio服务网格的技术调研.docx",
-    "Spaces/0-Work/Daily notes/算法安全自评估制度建设.md",
     "Spaces/0-Work/Daily notes/算法安全自评估制度建设.docx",
     "Extras/Media/Pasted image 20230822134833.png",
     "Extras/Media/Pasted image 20230822103627.png",
-    "Spaces/0-Work/架构图的技巧和方法.md",
-    "Spaces/0-Work/Daily notes/Chat Models 模型.md",
     "Spaces/0-Work/Canvas/测试环境集群部署资源.canvas",
     "Spaces/0-Work/Canvas/映兔后端部署架构图.canvas",
-    "未命名.canvas",
     "Spaces/0-Work/Canvas/业务开发的流程.canvas",
     "Spaces/0-Work/Canvas/语义化搜索流程图.canvas",
     "Extras/Media/企业微信截图_c3c46dd3-71b1-447a-abf4-5ae002ec462b.png",
@@ -375,10 +289,7 @@
     "Extras/Media/映兔AI&AIGC 优先级.xmind",
     "Spaces/0-Work/99-映兔知识库/000-映兔新人快速入门索引 - MOC.docx",
     "tmp/Spaces/映兔现有公共文档通读和学习.docx",
-    "tmp/Spaces/Terway.docx",
-    "tmp/Spaces/映兔入职第一天日志.docx",
     "tmp/Spaces/0-Work/Canvas/语义化搜索流程图.canvas",
-    "tmp/Spaces/0-Work/Canvas/映兔研发部署环境全貌.canvas",
-    "tmp/Spaces/0-Work/Canvas/映兔研发Devops流水线全貌.canvas"
+    "tmp/Spaces/0-Work/Canvas/映兔研发部署环境全貌.canvas"
   ]
 }
