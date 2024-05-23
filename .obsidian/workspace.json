@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "acc7453ae69a522d",
+        "id": "01d5461bd4e2dab5",
         "type": "tabs",
         "children": [
           {
-            "id": "77cf02e36e370bd9",
+            "id": "f57679531a94e4cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL.md",
+                "file": "Spaces/0-Work/Daily notes/2024-05-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL.md"
+                "file": "Spaces/0-Work/Daily notes/2024-05-23.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL.md",
+                "file": "Spaces/0-Work/Daily notes/2024-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MySQL.md",
+                "file": "Spaces/0-Work/Daily notes/2024-05-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL.md",
+                "file": "Spaces/0-Work/Daily notes/2024-05-23.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,14 +196,44 @@
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "8f07d5101a642689",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              }
+            }
+          },
+          {
+            "id": "67b4db17d562deb1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "07dd5aeb2fecdec8",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 386.5,
-    "collapsed": true
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,9 +250,7 @@
       "notion-like-tables:Create new loom": false,
       "copilot:Copilot Chat": false,
       "obsidian-importer:Open Importer": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "periodic-notes:Open today": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
@@ -231,65 +259,68 @@
       "obsidian-spaced-repetition:复习卡片": false,
       "obsidian-projects:Open projects": false,
       "dbfolder:创建一个新数据库表": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "periodic-notes:Open today": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "77cf02e36e370bd9",
+  "active": "f57679531a94e4cf",
   "lastOpenFiles": [
+    "大数据/关于大数据.md",
+    "1/Spaces/3-Resource/效率工具与服务专题/MacOS 软件使用/滴答清单.md",
+    "Spaces/未命名",
     "README.md",
-    "Atlas/Dashborads/Untitled 2.loom",
-    "Atlas/Canvas/🧩 2022年，我用3个app达成的3个小成就.canvas",
-    "交换机.md",
-    "未命名.md",
-    "未命名.canvas",
-    "AboutTheGarden.md",
-    "🍀 花园导览/未命名",
-    "rocketMQ.md",
-    "🧰 本库指南/🧰 本库使用指南.md",
-    "Cards/永久笔记/数字花园.md",
-    "🍀 花园导览/🍀 花园导览.md",
-    "Spaces/3-Resource/效率工具与服务专题/Obsidian插件使用/Advanced Slides.md",
-    "Cards/永久笔记/frontmatter.md",
-    "Calendar/Daily notes/Daily notes归档/2023/2023-02-12.md",
-    "Calendar/已发布帖子/自荐obsidian开源库和发布站.md",
-    "🍀 花园导览/🏋 如何保持健康.md",
-    "🍀 花园导览/👓 如何高效学习.md",
-    "🍀 花园导览/🗜 效率工具使用.md",
-    "🍀 花园导览/🤖 如何用好AIGC工具.md",
-    "Cards/永久笔记/gitignore 语法.md",
-    "Sources/Articles/常青笔记阅读笔记/创建超链接到我的参考档案.md",
-    "Spaces/0-Work/Daily notes/2023-08-23.md",
-    "Extras/Media/Pasted image 20230823192405.png",
-    "Spaces/0-Work/ack集群引入istio服务网格操作日志.md",
-    "Extras/Media/Pasted image 20230823154948.png",
-    "Extras/Media/Pasted image 20230823154103.png",
-    "Spaces/0-Work/ack集群引入istio服务网格的技术调研.md",
-    "Spaces/0-Work/gitops.md",
-    "Spaces/0-Work/自建k8s与使用阿里云ack优缺点分析.md",
-    "Cards/永久笔记/本机启用ssh免密自动登陆.md",
-    "Spaces/0-Work/映兔现有集群集成istio服务治理能力的调研.md",
-    "Atlas/Dashborads/Untitled 1.loom",
-    "Spaces/0-Work/ack集群引入istio服务网格的技术调研.docx",
-    "Spaces/0-Work/Daily notes/算法安全自评估制度建设.docx",
-    "Extras/Media/Pasted image 20230822134833.png",
-    "Extras/Media/Pasted image 20230822103627.png",
-    "Spaces/0-Work/Canvas/测试环境集群部署资源.canvas",
-    "Spaces/0-Work/Canvas/映兔后端部署架构图.canvas",
-    "Spaces/0-Work/Canvas/业务开发的流程.canvas",
-    "Spaces/0-Work/Canvas/语义化搜索流程图.canvas",
-    "Extras/Media/企业微信截图_c3c46dd3-71b1-447a-abf4-5ae002ec462b.png",
-    "Extras/Media/企业微信截图_0418f07e-8edd-4f8a-ab35-b3a29d592682.png",
-    "Spaces/0-Work/Canvas/映兔ingtube-aigc-语义化检索博主技术方案流程图.canvas",
-    "Extras/Media/Pasted image 20230821145855.png",
-    "Extras/Media/企业微信截图_38fce5b1-2321-4f27-b7a2-993596173644.png",
-    "Extras/Media/企业微信截图_35a81c5a-6874-483f-97c3-89bb3776221f.png",
-    "Extras/Media/2022年元宇宙Meta知识精选笔记分享-2022.pdf",
-    "Extras/Media/【极客时间】李佳芮：ChatGPT 从0到1.pdf",
-    "Spaces/0-Work/Canvas/映兔数据流架构图.canvas",
-    "Extras/Media/映兔AI&AIGC 优先级.xmind",
-    "Spaces/0-Work/99-映兔知识库/000-映兔新人快速入门索引 - MOC.docx",
-    "tmp/Spaces/映兔现有公共文档通读和学习.docx",
-    "tmp/Spaces/0-Work/Canvas/语义化搜索流程图.canvas",
-    "tmp/Spaces/0-Work/Canvas/映兔研发部署环境全貌.canvas"
+    "关于花园.md",
+    "Spaces/0-Work/Daily notes/2024-05-23.md",
+    "Spaces/0-Work/Daily notes",
+    "Spaces/0-Work",
+    "Spaces",
+    "大数据/LangChain/LangChain.md",
+    "1/Calendar/About Calendar.md",
+    "1/Atlas/About Atlas.md",
+    "大数据/LangChain",
+    "1/README.md",
+    "1/🍀 花园导览/其他/🎥 我的PPT.md",
+    "1/🧰 本库指南/🆕 本库更新日志.md",
+    "1/🍀 花园导览/🍀 花园导览.md",
+    "AboutTheGarden 1.md",
+    "LangChain.md",
+    "1/rocketMQ.md",
+    "1/Redis.md",
+    "1/MySQL.md",
+    "1/LICENSE",
+    "1/🧰 本库指南/Tutorials/链接优先.md",
+    "1/🧰 本库指南/Tutorials/笔记法的文件夹和目录该如何组织和搭建.md",
+    "1/🧰 本库指南/Tutorials/本库需要单独配置的插件.md",
+    "1/🧰 本库指南/Tutorials/本库通过todo标签进行简易计划和执行.md",
+    "1/🧰 本库指南/Tutorials/本库设计哲学及理念.md",
+    "1/🧰 本库指南/Tutorials/本库涉及外部app调用的工作流.md",
+    "1/🧰 本库指南/Tutorials/本库数字花园如何嵌入访问统计系统.md",
+    "1/🧰 本库指南/Tutorials/本库推荐的obsidian入门路线及资源.md",
+    "1/🧰 本库指南/Tutorials/本库常用的快捷键及作用.md",
+    "1/🧰 本库指南/Tutorials",
+    "1/🧰 本库指南",
+    "1/🍀 花园导览/其他",
+    "1/🍀 花园导览",
+    "1/Extras/Draws/Scripts/Downloaded/Slideshow.svg",
+    "1/Extras/Templates/Calendar模板/回顾总结模板/月度模板.canvas",
+    "1/Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
+    "1/Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
+    "1/Extras/Draws/白板 2023-08-09.dark.svg",
+    "1/Extras/Draws/白板 2023-08-05.dark.svg",
+    "1/Extras/Draws/白板 2023-08-04.dark.svg",
+    "1/Extras/Draws/白板 2023-08-04.light.svg",
+    "1/Extras/Draws/白板 2023-08-01.light.svg",
+    "1/Extras/Draws/白板 2023-08-01.dark.svg",
+    "1/Atlas/Draws/白板 2023-03-11.light.svg",
+    "1/Atlas/Draws/数字时代如何更好地工作与生活 - 图.svg",
+    "1/Atlas/Draws/白板 2023-03-11.dark.svg",
+    "1/Atlas/Canvas/🧩 白板canvas-示意图.canvas",
+    "1/Atlas/Canvas/🧩 如何构建第二大脑.canvas",
+    "1/Atlas/Canvas/🧩 数字时代如何更好地生活与工作.canvas",
+    "1/Atlas/Canvas/🧩 如何学会减脂和健身.canvas",
+    "1/Atlas/Canvas/🧩 如何做读书笔记.canvas",
+    "1/Atlas/Canvas/🧩 canvas 嵌入高级视图使用示例.canvas",
+    "1/Atlas/Canvas/🧩 DevOps成长路线图.canvas"
   ]
 }
